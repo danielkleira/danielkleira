@@ -1,4 +1,4 @@
-## Ola eu sou Daniel Leira, dev front-end e estudante de back-end!
+## Ola eu sou Daniel Leira, desenvolvedor Fullstack!
 <div align="center">
   <a href="https://github.com/danielkleira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielkleira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
